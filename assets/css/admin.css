@@ -1,0 +1,27 @@
+/* =============================================================================
+   External Link Tagger — Admin Styles
+   ============================================================================= */
+
+.elt-wrap {
+    max-width: 680px;
+}
+
+.elt-subtitle {
+    font-size: 14px;
+    color: #50575e;
+    margin-bottom: 20px;
+}
+
+/* Align the settings table checkboxes */
+.elt-wrap .form-table th {
+    width: 240px;
+    font-weight: normal;
+}
+
+.elt-wrap .form-table td {
+    padding: 10px 10px 10px 0;
+}
+
+.elt-wrap .form-table input[type="checkbox"] {
+    margin-top: 0;
+}
