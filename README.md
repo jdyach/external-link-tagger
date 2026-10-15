@@ -2,6 +2,10 @@
 
 A WordPress plugin that automatically adds `target="_blank"` and `rel="noopener noreferrer"` to external links in post content, excerpts, and text widgets — with a simple settings page to control where it applies.
 
+[![Try it live in WordPress Playground](https://img.shields.io/badge/Try%20it%20live-WordPress%20Playground-3858e9?logo=wordpress&logoColor=white&style=for-the-badge)](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/jdyach/external-link-tagger/main/_playground/blueprint.json)
+
+The live demo runs a real WordPress site in your browser with this plugin, the [Fieldnote](https://github.com/jdyach/fieldnote) block theme and sample content. It opens a post mixing internal and external links. External links are highlighted (demo-only styling) to show which ones received `target="_blank"` and `rel="noopener noreferrer"`. Nothing to install.
+
 ## Features
 
 - Processes links in **post content**, **excerpts**, and **text widgets** (each toggleable)
