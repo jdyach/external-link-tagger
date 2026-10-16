@@ -4,7 +4,7 @@
  * Plugin URI:        https://github.com/jdyach/external-link-tagger
  * Description:       Automatically adds target="_blank" and rel="noopener noreferrer" to external links in post content, excerpts, and widgets.
  * Version:           1.0.0
- * Author:            Jacqui Dyachenko
+ * Author:            Jacqui Dyach
  * Author URI:        https://jacquid.com
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
